@@ -30,7 +30,7 @@ The ```XXX_user_mapping.pkl``` file is a list that maps the user inner id to its
 The ```XXX_item_mapping.pkl``` file is similar to ```XXX_user_mapping.pkl```.
 The beauty dataset is in the file as an example.
 
-###Knowledge Graph Embedding
+### Knowledge Graph Embedding
 The KB embedding is trained by transE based on projects of THUNLP(https://github.com/thunlp). OpenKE(https://github.com/thunlp/OpenKE) is their main project, 
 you can find nearly all methods related here, including all TransX model used in the paper.
 
